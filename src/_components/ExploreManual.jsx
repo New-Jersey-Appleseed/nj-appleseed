@@ -29,7 +29,7 @@ export default function ExploreManual() {
       imgSrc: "/assets/vector/best.svg",
       imgAlt: "Practices",
       buttonText: "BEST PRACTICES",
-      description: "Follow these best Practices",
+      description: "Follow these best practices",
     },
     {
       href: "/resources",
