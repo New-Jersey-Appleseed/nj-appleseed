@@ -13,6 +13,7 @@ const site = lume({
     page404: "./404.html",
   },
   // location: new URL(""),
+  location: new URL("https://new-jersey-appleseed.github.io/nj-appleseed/"),
   watcher: {
     debounce: 10,
   },
