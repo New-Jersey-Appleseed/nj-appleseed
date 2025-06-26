@@ -4,6 +4,7 @@ import tailwindcss from "lume/plugins/tailwindcss.ts";
 import postcss from "lume/plugins/postcss.ts";
 import typography from "npm:@tailwindcss/typography";
 import sitemap from "lume/plugins/sitemap.ts";
+import favicon from "lume/plugins/favicon.ts";
 
 const site = lume({
   src: "./src",
@@ -17,6 +18,12 @@ const site = lume({
     debounce: 10,
   },
 });
+
+site.use(
+  favicon({
+    input: "assets/favicon.png",
+  }),
+);
 
 site.use(jsx());
 site.use(
