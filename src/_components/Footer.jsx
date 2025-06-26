@@ -47,7 +47,7 @@ export default function Footer() {
           </div>
         </div>
         <p className="italic text-xs sm:text-base">
-          New Jersey Appleseed Public Law Center @2025. All rights reserved.
+          New Jersey Appleseed Public Law Center 2025. All rights reserved.
         </p>
       </div>
     </footer>

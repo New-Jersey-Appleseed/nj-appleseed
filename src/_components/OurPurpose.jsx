@@ -6,11 +6,11 @@ export default function OurPurpose({ purpose }) {
         <article className="py-[24px] text-black text-xl">{purpose}</article>
       </div>
 
-      <div className="flex items-center justify-center min-h-64 md:h-48 md:max-w-xs max-md:py-[26px] px-4">
+      <div className="flex items-center justify-center min-h-64 px-4">
         <img
           src="/assets/ourpurpose.png"
           alt="Our Purpose Image"
-          className="h-auto object-contain"
+          className="h-48 w-48 sm:h-64 sm:w-auto object-contain"
         />
       </div>
     </section>
