@@ -16,6 +16,9 @@ resources:
       - title: Legal Assistance
         description: Connect with non-profit legal experts and county bar associations dedicated to helping with medical debt and related legal concerns.
         url: /assets/docs/AppendixC.pdf
+      - title: A New Jersey Guide to Insurance Appeals
+        description: A comprehensive guide to understanding and navigating the insurance appeals process in New Jersey, including tips and resources.
+        url: /assets/docs/AppleseedAppealsGuide.pdf
 
   - name: FORMS & LETTERS
     description: Explore sample letters and forms in Appendix D that can help you handle medical debt, request payment plans, and respond to debt collectors or lawsuits.
