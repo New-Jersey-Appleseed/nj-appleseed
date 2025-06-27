@@ -4,6 +4,7 @@ import tailwindcss from "lume/plugins/tailwindcss.ts";
 import postcss from "lume/plugins/postcss.ts";
 import typography from "npm:@tailwindcss/typography";
 import sitemap from "lume/plugins/sitemap.ts";
+import favicon from "lume/plugins/favicon.ts";
 
 const site = lume({
   src: "./src",
@@ -18,6 +19,12 @@ const site = lume({
   },
 });
 
+site.use(
+  favicon({
+    input: "assets/favicon.png",
+  }),
+);
+
 site.use(jsx());
 site.use(
   tailwindcss({
@@ -27,8 +34,7 @@ site.use(
       theme: {
         extend: {
           colors: {
-            primary: "#9D1535", // Maroon
-            secondary: "#742a2a", // Darker Maroon
+            primary: "#AA0000",
             green: "#599144",
             "dark-green": "#367800",
             "text-color": "#333333",

@@ -2,7 +2,13 @@
 title: End Medical Debt in New Jersey
 layout: _layouts/Home.jsx
 indexable: true
-
+purpose: Medical debt is a growing crisis affecting millions of Americans,
+  often pushing families into financial hardship. This platform will
+  provide downloadable legal guides, sample forms, FAQs, and video
+  tutorials to help individuals navigate medical debt disputes,
+  insurance appeals, and payment negotiations. The site will also
+  connect users with legal aid services and resources, making it easier
+  for them to access the support they need.
 organizations:
   - title: New Jersey Appleseed Public Interest Law Center
     body: |

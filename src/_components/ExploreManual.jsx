@@ -9,7 +9,7 @@ export default function ExploreManual() {
         alt={imgAlt}
         className="w-28 h-28 mb-4 object-contain"
       />
-      <button className="bg-red-700 text-white px-4 py-2.5 rounded font-bold text-base hover:bg-red-800 transition-colors w-full max-w-[200px]">
+      <button className="bg-primary text-white px-4 py-2.5 rounded font-bold text-base hover:bg-red-800 transition-colors w-full max-w-[200px]">
         {buttonText}
       </button>
       <p className="text-center text-sm sm:text-base mt-3">{description}</p>
@@ -29,7 +29,7 @@ export default function ExploreManual() {
       imgSrc: "/assets/vector/best.svg",
       imgAlt: "Practices",
       buttonText: "BEST PRACTICES",
-      description: "Follow these best Practices",
+      description: "Follow these best practices",
     },
     {
       href: "/resources",
@@ -64,16 +64,16 @@ export default function ExploreManual() {
             </a>
             <div className="flex items-center gap-2 mt-auto group">
               <a href="manual" className="inline-block">
-                <h3 className="relative text-2xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-red-700 group-hover:scale-105 transition-transform duration-500">
-                  <span className="sm:hidden inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-red-700 after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
+                <h3 className="relative text-2xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold text-primary group-hover:scale-105 transition-transform duration-500">
+                  <span className="sm:hidden inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-primary after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
                     READ THE MANUAL
                   </span>
                   <div className="hidden sm:block">
-                    <span className="inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-red-700 after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
+                    <span className="inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-primary after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
                       READ THE
                     </span>
                     <br />
-                    <span className="inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-red-700 after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
+                    <span className="inline-block relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-1.5 after:bg-primary after:w-full after:scale-x-0 after:origin-left after:transition-transform after:duration-500 group-hover:after:scale-x-100 pb-1">
                       MANUAL
                     </span>
                   </div>
