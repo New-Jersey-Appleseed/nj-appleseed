@@ -8,7 +8,7 @@ purpose: Medical debt is a growing crisis affecting millions of Americans,
   tutorials to help individuals navigate medical debt disputes,
   insurance appeals, and payment negotiations. The site will also
   connect users with legal aid services and resources, making it easier
-  for them to access the support they need.
+  for them to access the support they need. Welcome!
 organizations:
   - title: New Jersey Appleseed Public Interest Law Center
     body: |
