@@ -27,4 +27,5 @@ bestPractices:
     icon: "/assets/vector/letter.svg"
   - content: If you do get sued, do not ignore it.  If possible, speak with an attorney about whether you should answer, contest the bill, file for bankruptcy or take other action.
     icon: "/assets/vector/hospital.svg"
+    
 ---
