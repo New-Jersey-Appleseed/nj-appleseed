@@ -34,8 +34,7 @@ site.use(
       theme: {
         extend: {
           colors: {
-            primary: "#9D1535", // Maroon
-            secondary: "#742a2a", // Darker Maroon
+            primary: "#AA0000",
             green: "#599144",
             "dark-green": "#367800",
             "text-color": "#333333",
