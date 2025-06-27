@@ -24,4 +24,9 @@ organizations:
     body: |
       **[New Jersey For Health Care Coalition](https://njforhealthcare.org/)** is dedicated to common sense, consumer friendly solutions to ensure every New Jerseyan can get the health care they need, when they need it, and at a price they can afford.  The coalition came together in 2008 to address the crisis of a lack of quality, affordable and accessible health coverage for our residents. Since its inception, the coalition has distinguished itself as the leading voice for consumers in federal and state health care reform efforts. Member organizations represent over two million New Jerseyans and include allied patient advocates, community and faith-based groups, labor, racial justice advocates, research and policy organizations, child, senior and women’s advocacy groups, and social service providers. Together the coalition has won important victories that have expanded coverage, increased protections and helped lower costs for patients and consumers.
     logo: /assets/njhc_logo.png
+
+  - title: Stevens Blueprint
+    body: |
+      **[Stevens Blueprint](https://sitblueprint.com/)** is a student-led organization at Stevens Institute of Technology that develops pro bono technical solutions for non-profit organizations. They partnered with NJA, NJCA, and NJHC to create this website to help New Jersey residents navigate the complexities of medical debt. Their mission is to empower communities through technology and innovation, providing valuable resources and support to those in need.
+    logo: /assets/blueprint_logo.png
 ---
