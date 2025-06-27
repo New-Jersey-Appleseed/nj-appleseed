@@ -12,7 +12,7 @@ purpose: Medical debt is a growing crisis affecting millions of Americans,
 organizations:
   - title: New Jersey Appleseed Public Interest Law Center
     body: |
-      **New Jersey Appleseed Public Interest Law Center** is a nonprofit legal advocacy organization working to drive systemic change through the law. Founded in the late 1990s and rooted in a national network inspired by consumer advocate Ralph Nader and civil rights attorney Arthur Kinoy, NJ Appleseed focuses on law-based solutions—ranging from litigation and legislation to education and coalition-building. Its core advocacy areas include Empowering Voters, Health Care, Government & Corporate Accountability, and Community and Environmental Health. With a small staff, NJ Appleseed is highly effective, partnering with other public interest groups and coalitions to promote justice and equity throughout New Jersey.
+      **New Jersey Appleseed Public Interest Law Center** is a nonprofit legal advocacy organization working to drive systemic change through the law. Founded in the late 1990s and rooted in a national network inspired by consumer advocate Ralph Nader and civil rights attorney Arthur Kinoy, NJ Appleseed focuses on law-based solutions—ranging from litigation and legislation to education and coalition-building. Its core advocacy areas include Empowering Voters, Health Care, Government & Corporate Accountability, and Community and Environmental Health. With a small staff, NJ Appleseed is highly effective, partnering with other public interest groups and coalitions to promote justice and equity throughout New Jersey. This is a test addition.
     logo: /assets/nja_logo.png
 
   - title: New Jersey Citizen Action
