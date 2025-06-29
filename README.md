@@ -4,7 +4,9 @@
 ![Static Badge](https://img.shields.io/badge/Tailwind-CSS-green)
 ![Static Badge](https://img.shields.io/badge/Blueprint_2025-0078E8)
 
-The website is live at [endmeddebtnj.org](https://endmeddebtnj.org). This repository contains the source code for the End Medical Debt New Jersey website, which is built using [Lume](https://lume.land/). The website is now largely in maintenance mode, with the primary focus on keeping the manual up to date.
+The website is live at [endmeddebtnj.org](https://endmeddebtnj.org) and its goal is to provide a comprehensive online resource for understanding and managing medical debt in New Jersey. It includes a detailed manual, resources, and guides to help individuals navigate the complexities of medical billing, insurance, and debt collection.
+
+This repository contains the source code for the End Medical Debt New Jersey website, which is built using [Lume](https://lume.land/). The website is now largely in maintenance mode, with the primary focus on keeping the manual up to date.
 
 ## Getting Started
 
