@@ -32,6 +32,7 @@
     "npm:@js-temporal/polyfill@0.4.4": "0.4.4",
     "npm:@tailwindcss/typography@*": "0.5.16_tailwindcss@3.4.17__postcss@8.5.3",
     "npm:@types/estree@1.0.6": "1.0.6",
+    "npm:@types/react@*": "19.0.10",
     "npm:autoprefixer@10.4.20": "10.4.20_postcss@8.5.3",
     "npm:estree-walker@3.0.3": "3.0.3",
     "npm:ico-endec@0.1.6": "0.1.6",
