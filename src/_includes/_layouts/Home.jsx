@@ -32,7 +32,7 @@ export default function Home({ title, organizations, purpose, comp }) {
         {/* Affiliate link for vot-er */}
         <div className="flex justify-center pb-16">
           <a
-            href="https://vot-er.org/act/?organizationId=e2e3e6f0-b933-4245-95d2-a3f69e4c633f&userId=537e60aa-e25b-47e5-b1f8-f5f68d566d36&ref=emdnj"
+            href="https://vote.health/emdnj"
             className="bg-primary hover:bg-secondary transition-colors duration-300 text-white text-md md:text-xl font-bold py-3 px-10 rounded-md"
           >
             Protect Your Care - Register to Vote
